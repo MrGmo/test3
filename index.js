@@ -1,9 +1,7 @@
 chicago bears suck!!!!
 
 
-
-
-
+Next year super bowl champs!
 
 
 
