@@ -1,23 +1,4 @@
-// // Example API URL
-
-// const apiUrl = 'https://pokeapi.co/api/v2/pokemon/pikachu';
-
-// // Fetching data from the API
-// fetch(apiUrl)
-//   .then(response => {
-//     if (!response.ok) {
-//       throw new Error(`HTTP error! status: ${response.status}`);
-//     }
-//     return response.json(); // Parse the response as JSON
-//   })
-//   .then(data => {
-//     console.log(data); // Print the JSON response
-//   })
-//   .catch(error => {
-//     console.error('Error fetching data:', error);
-//   });
-
-
+chicago bears suck!!!!
 
 
 
